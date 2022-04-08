@@ -20,6 +20,7 @@ pipeline {
         stage('Hello4') {
             steps {
                 echo 'Hello World4'
+                echo 'welcome to world6'
             }
         }
     }
